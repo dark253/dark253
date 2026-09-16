@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel 👋
 
-<!--
-**dark253/dark253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em **Inteligência Artificial** pela **UNIFEI** (Universidade Federal de Itajubá).
 
-Here are some ideas to get you started:
+## 🎓 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de IA focado em aprender e aplicar conceitos de **Machine Learning**, **Deep Learning** e **Visão Computacional**.
+- Interessado em transformar teoria acadêmica em projetos práticos.
+- Em constante evolução — sempre estudando novas ferramentas e técnicas da área.
+
+## 🧠 Áreas de interesse
+
+- Machine Learning & Deep Learning
+- Visão Computacional
+- Processamento de dados
+- Boas práticas de desenvolvimento de software
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 📌 Projetos
+
+No momento, meus repositórios de projeto estão privados. Em breve alguns serão disponibilizados publicamente aqui.
+
+## 📫 Contato
+
+_Em breve._
+
+---
+<sub>Perfil em construção — sempre aprendendo.</sub>
