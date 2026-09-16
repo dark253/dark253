@@ -14,6 +14,9 @@ Graduando em **Inteligência Artificial** pela **UNIFEI** (Universidade Federal 
 - Visão Computacional
 - Processamento de dados
 - Boas práticas de desenvolvimento de software
+## 📊 Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dark253&show_icons=true&include_all_commits=true&count_private=true&theme=default)
 
 ## 🛠️ Tecnologias
 
