@@ -11,7 +11,7 @@ Graduando em **Inteligência Artificial** pela **UNIFEI** (Universidade Federal 
 
 - Machine Learning & Deep Learning
 - Visão Computacional
-- Processamento de dados
+- Processamento de dados e datasets
 - Boas práticas de desenvolvimento de software
 
 ## Tecnologias
