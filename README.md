@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel 👋
+# Olá, eu sou o Gabriel 
 
 Graduando em **Inteligência Artificial** pela **UNIFEI** (Universidade Federal de Itajubá).
 
@@ -8,7 +8,7 @@ Graduando em **Inteligência Artificial** pela **UNIFEI** (Universidade Federal 
 - Interessado em transformar teoria acadêmica em projetos práticos.
 - Em constante evolução — sempre estudando novas ferramentas e técnicas da área.
 
-## 🧠 Áreas de interesse
+##  Áreas de interesse
 
 - Machine Learning & Deep Learning
 - Visão Computacional
@@ -18,7 +18,7 @@ Graduando em **Inteligência Artificial** pela **UNIFEI** (Universidade Federal 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dark253&show_icons=true&include_all_commits=true&count_private=true&theme=default)
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -28,7 +28,7 @@ Graduando em **Inteligência Artificial** pela **UNIFEI** (Universidade Federal 
 
 No momento, meus repositórios de projeto estão privados. Em breve alguns serão disponibilizados publicamente aqui.
 
-## 📫 Contato
+##  Contato
 
 _Em breve._
 
