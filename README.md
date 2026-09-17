@@ -1,12 +1,11 @@
 # Olá, eu sou o Gabriel 
 
 Graduando em **Inteligência Artificial** pela **UNIFEI** (Universidade Federal de Itajubá).
-
+ 
 ## 🎓 Sobre mim
 
 - Estudante de IA focado em aprender e aplicar conceitos de **Machine Learning**, **Deep Learning** e **Visão Computacional**.
-- Interessado em transformar teoria acadêmica em projetos práticos.
-- Em constante evolução — sempre estudando novas ferramentas e técnicas da área.
+- CTO - ValTexa
 
 ##  Áreas de interesse
 
